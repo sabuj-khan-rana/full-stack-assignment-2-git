@@ -33,7 +33,7 @@ Dhaka, Bangladesh.
 | Position | Institute | Duration | Location |
 |----------|-----------|----------|----------|
 | Asst. Director & Librarian | Dpt. of Public Libraries | 28 Dec 2023-Running | Dhaka |
-| Librarian | BRGEWA | Ministry of Public Administration | 19 Feb 2023-27 Dec 2023 | Dhaka |
+| Librarian | BRGEWA | 19 Feb 2023-27 Dec 2023 | Dhaka |
 | Assistant Librarian | Ashiyan Medical College | 1 Nov 2022-30 Nov 2022 | Dhaka |
 | Librarian | Faridpur Polytechnic Institute | 16 Aug 2021- 31 Jul 2022 | Faridpur |
 |
